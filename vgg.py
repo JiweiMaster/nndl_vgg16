@@ -1,3 +1,4 @@
+# pip install JiweiCommonUtil
 from JiweiCommonUtil.imgshow import showLineImg
 import numpy 
 import torch 
